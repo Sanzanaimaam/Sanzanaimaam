@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Sanzanaimaam/Sanzanaimaam/main/sanzana-github-cover.gif" width="100%" alt="Sanzana coding banner" />
+<img src="https://raw.githubusercontent.com/Sanzanaimaam/Sanzanaimaam/main/sanzana-github-cover.svg" width="100%" alt="Sanzana Imam Chowdhury, Full Stack Developer" />
 
 <h1 align="center">Hi 👋, I'm Sanzana</h1>
 <h3 align="center">Full Stack Developer | React · Next.js · TypeScript · Node.js · MongoDB</h3>
