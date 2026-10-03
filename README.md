@@ -1,7 +1,10 @@
 <img src="https://raw.githubusercontent.com/Sanzanaimaam/Sanzanaimaam/main/sanzana-github-cover.svg" width="100%" alt="Sanzana Imam Chowdhury, Full Stack Developer" />
 
-<h1 align="center">Hi 👋, I'm Sanzana</h1>
-<h3 align="center">Full Stack Developer | React · Next.js · TypeScript · Node.js · MongoDB</h3>
+<p align="center">
+  <a href="https://github.com/Sanzanaimaam">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1200&color=FF4D67&center=true&vCenter=true&width=760&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanzana;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+MongoDB;I+turn+ideas+into+real+products" alt="Hi, I'm Sanzana - Full Stack Developer" />
+  </a>
+</p>
 
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanzanaimaam@gmail.com">sanzanaimaam@gmail.com</a>
