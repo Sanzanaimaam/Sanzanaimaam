@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Sanzana%20Imam%20Chowdhury&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=65&descSize=20" width="100%" alt="Banner" />
+<img src="https://raw.githubusercontent.com/Sanzanaimaam/Sanzanaimaam/main/sanzana-github-cover.gif" width="100%" alt="Sanzana coding banner" />
 
 <h1 align="center">Hi 👋, I'm Sanzana</h1>
 <h3 align="center">Full Stack Developer | React · Next.js · TypeScript · Node.js · MongoDB</h3>
 
 <p align="center">
-  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 <a href="mailto:sanzanaimaam@gmail.com">sanzanaimaam@gmail.com</a>
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanzanaimaam@gmail.com">sanzanaimaam@gmail.com</a>
 </p>
 
 ---
@@ -31,6 +31,7 @@ I'm a full stack developer who enjoys building fast, clean and user-friendly web
 <p align="center">
   <a href="https://github.com/Sanzanaimaam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sanzana-imam-chowdhury/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanzanaimaam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 📊 GitHub Stats
